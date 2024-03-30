@@ -21,8 +21,7 @@ Welcome to the "Guess The Number" game! This is a simple browser-based game wher
 - JavaScript: Implements game logic and interactivity.
 
 ### Usage
-1. Clone this repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Guess the number within the specified range and interact with the game using the provided input field and buttons.
-4. Try to achieve the highest score possible by guessing the correct number with the fewest attempts.
-5. Click the "Again!" button to start a new game and rechallenge yourself.
+1. [Click Here To Start Play](https://guess-the-number-game-abuoelezz.vercel.app/).
+2. Guess the number within the specified range and interact with the game using the provided input field and buttons.
+3. Try to achieve the highest score possible by guessing the correct number with the fewest attempts.
+4. Click the "Again!" button to start a new game and rechallenge yourself.

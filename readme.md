@@ -1,6 +1,8 @@
 # Guess_The_Number_Game
 
-Welcome to the "Guess The Number" game! This is a simple browser-based game where players try to guess a randomly generated number within a specified range. This game was developed during [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/share/101Wfe3@WNfGGz11Oi9aTz8k04tFZTOeWvzLQXZsSOnuHZXk7n3xF_sBJQTf5GT05dyygfpFow==/).
+Welcome to the "Guess The Number" game! This is a simple browser-based game where players try to guess a randomly generated number within a specified range. 
+
+This game was developed during [Jonas Schmedtmann's JavaScript Course](https://www.udemy.com/share/101Wfe3@WNfGGz11Oi9aTz8k04tFZTOeWvzLQXZsSOnuHZXk7n3xF_sBJQTf5GT05dyygfpFow==/).
 
 ### Features:
 - Random Number Generation: Generates a number between 1 and 30 for guessing.

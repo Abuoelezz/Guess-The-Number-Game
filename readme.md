@@ -1,4 +1,4 @@
-# Guess-The-Number-Game
+# Guess The Number Game
 
 Welcome to the "Guess The Number" game! This is a simple browser-based game where players try to guess a randomly generated number within a specified range. 
 
